@@ -114,9 +114,10 @@
     color: rgb(44, 7, 71);
     font-family: 'Iran Sans';
     font-size: 1rem;
-    pading-top: 1rem;
+    margin-top: 1px;
 }
 .lnk{
+    margin-top: 1px;
     font-family: 'Iran Sans';
     font-size: 1rem;
     color:#282e08;
